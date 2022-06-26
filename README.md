@@ -1,1 +1,1 @@
-# heroChoiceMiniAPP || Some HM with Delegate & DataSource model, with picker 
+# heroChoiceMiniAPP || Some HM Picker || Marvel Heroes choice 
